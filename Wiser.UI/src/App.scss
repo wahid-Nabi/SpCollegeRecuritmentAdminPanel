@@ -1,0 +1,8 @@
+.app-header {
+  padding: 0 1em;
+}
+@import "~@sweetalert2/theme-material-ui/material-ui.scss";
+
+.buttonTextColor .swal2-confirm {
+  color: white;
+}
